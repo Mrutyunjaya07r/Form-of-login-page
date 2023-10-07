@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to right,red,blue);
+}
+.c1{
+    background-color: yellow;
+    height:400px;
+    width:400px;
+    text-align:center;
+    position:relative;
+    top:100px;
+    left:400px;
+    border:2px solid black;
+    border-radius: 5%;
+}
+.c2{
+   
+    background-image: linear-gradient(to right,black,red);
+    color:goldenrod;
+}
